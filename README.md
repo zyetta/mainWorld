@@ -2,7 +2,7 @@
 Author(s):
  - Zyetta
  - FlameboiZoro
- - 
+
 *Minecraft Version 1.16.4*
 
 
